@@ -148,8 +148,26 @@ footer {
   border-top: 2px solid #9A3B3B;
   margin-top: 1rem;
   padding: 1.2rem;
-  background: linear-gradient(to right, #C08261, #F2ECBE, #9A3B3B);
+  background: linear-gradient(to left, #9A3B3B, #C08261, #F2ECBE, #9A3B3B);
 }
 footer i {
   color: red;
+}
+
+#curiosidades {
+  padding: 1rem;
+  text-align: center;
+  margin: 5px;
+}
+#curiosidades h3 {
+  color: #9A3B3B;
+  font-size: 1.5rem;
+}
+#curiosidades h4 {
+  color: #C08261;
+  font-size: 1.2rem;
+}
+#curiosidades p {
+  margin-top: 5px;
+  color: #9A3B3B;
 }/*# sourceMappingURL=style.css.map */
